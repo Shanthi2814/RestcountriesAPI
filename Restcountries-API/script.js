@@ -51,6 +51,7 @@ async function countryAPI(){
          <h6>Capital: ${country.capital}</h6>
            <h6>Region : ${country.region}</h6>
            <h6>Country Code: ${country.cca3}</h6>
+           <h6>Latlng: ${country.latlng}</h6>
          </div>
        </div>`;
 
